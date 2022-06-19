@@ -1,0 +1,4 @@
+OnFileChange: text2.txt
+OnFileChange: list1.xls
+OnFileChange: folder3
+OnFileChange: folder2
